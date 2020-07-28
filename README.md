@@ -9,7 +9,7 @@ Data or Persistence Layer :a layer to present the data, by configuring entities,
 
  ### Runing and testing project :
  1. use can use IDE buttons to facilitate project runing and testing functionnalities..
- 2. Using maven Commands :
+ 2. Using maven Commands : </br>
 *Compile* </br>
 mvn clean install
 
